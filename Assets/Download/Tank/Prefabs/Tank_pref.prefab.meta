@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8126af595e474fd488ccceb11e2db898
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 24672
+  packageName: WW2 Maus Tank
+  packageVersion: 1.0
+  assetPath: Assets/Tank/Prefabs/Tank_pref.prefab
+  uploadId: 39583
