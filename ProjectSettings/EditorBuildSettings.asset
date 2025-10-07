@@ -8,4 +8,6 @@ EditorBuildSettings:
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: aff84eb6f8e4ecc4686b5967976ffe85, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: bb927706953385b499ad857e93c97e6d, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ba2097692efd42d42a72803fd3b1ab39, type: 2}
   m_UseUCBPForAssetBundles: 0
